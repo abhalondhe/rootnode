@@ -1,0 +1,26 @@
+{
+  "name": "GPNodeJs",
+  "version": "1.0.0",
+  "description": "nodeJS server for tests",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "fs": "0.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Grace Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
